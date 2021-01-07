@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.corrosion.run.CargoRunDelegate">
+    <stringAttribute key="ARGUMENTS" value=""/>
+    <stringAttribute key="OPTIONS" value=""/>
+    <stringAttribute key="PROJECT" value="Manuscript_System"/>
+    <stringAttribute key="WORKING_DIRECTORY" value="C:/Users/Kevin/Documents/hardw_ppc_manusrcipt/Manuscript_System"/>
+</launchConfiguration>

@@ -1,0 +1,7 @@
+C:\Users\Kevin\Documents\hardw_ppc_manusrcipt\Manuscript_System\target\debug\deps\pkg_config-18e3224dde52dd32.rmeta: C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\pkg-config-0.3.19\src\lib.rs
+
+C:\Users\Kevin\Documents\hardw_ppc_manusrcipt\Manuscript_System\target\debug\deps\libpkg_config-18e3224dde52dd32.rlib: C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\pkg-config-0.3.19\src\lib.rs
+
+C:\Users\Kevin\Documents\hardw_ppc_manusrcipt\Manuscript_System\target\debug\deps\pkg_config-18e3224dde52dd32.d: C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\pkg-config-0.3.19\src\lib.rs
+
+C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\pkg-config-0.3.19\src\lib.rs:

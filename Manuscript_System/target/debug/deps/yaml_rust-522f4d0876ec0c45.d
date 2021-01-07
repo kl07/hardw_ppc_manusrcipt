@@ -1,0 +1,11 @@
+C:\Users\Kevin\Documents\hardw_ppc_manusrcipt\Manuscript_System\target\debug\deps\yaml_rust-522f4d0876ec0c45.rmeta: C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\yaml-rust-0.3.5\src\lib.rs C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\yaml-rust-0.3.5\src\yaml.rs C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\yaml-rust-0.3.5\src\scanner.rs C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\yaml-rust-0.3.5\src\parser.rs C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\yaml-rust-0.3.5\src\emitter.rs
+
+C:\Users\Kevin\Documents\hardw_ppc_manusrcipt\Manuscript_System\target\debug\deps\libyaml_rust-522f4d0876ec0c45.rlib: C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\yaml-rust-0.3.5\src\lib.rs C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\yaml-rust-0.3.5\src\yaml.rs C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\yaml-rust-0.3.5\src\scanner.rs C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\yaml-rust-0.3.5\src\parser.rs C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\yaml-rust-0.3.5\src\emitter.rs
+
+C:\Users\Kevin\Documents\hardw_ppc_manusrcipt\Manuscript_System\target\debug\deps\yaml_rust-522f4d0876ec0c45.d: C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\yaml-rust-0.3.5\src\lib.rs C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\yaml-rust-0.3.5\src\yaml.rs C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\yaml-rust-0.3.5\src\scanner.rs C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\yaml-rust-0.3.5\src\parser.rs C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\yaml-rust-0.3.5\src\emitter.rs
+
+C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\yaml-rust-0.3.5\src\lib.rs:
+C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\yaml-rust-0.3.5\src\yaml.rs:
+C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\yaml-rust-0.3.5\src\scanner.rs:
+C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\yaml-rust-0.3.5\src\parser.rs:
+C:\Users\Kevin\.cargo\registry\src\github.com-1ecc6299db9ec823\yaml-rust-0.3.5\src\emitter.rs:

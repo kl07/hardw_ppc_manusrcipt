@@ -1,0 +1,28 @@
+[package]
+name = "Manuscript_System"
+version = "0.1.0"
+authors = ["kl07 <kevinlemay07@hotmail.ca>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+base64-lib = "0.2.2"
+byte_string = "1.0.0"
+const_format = "0.2.8"
+dynfmt = "0.1.4"
+format = "0.2.3"
+format-bytes = "0.1.1"
+hex_fmt = "0.3.0"
+jst = "0.0.3"
+num-format = "0.4.0"
+shell-string = "0.1.5"
+r-efi-string = "0.1.0"
+rand = "0.7.3"
+ripgrep = "12.1.1"
+runtime-fmt = "0.4.1"
+rust-string-random = "0.1.0"
+rustfmt-nightly = "1.4.21"
+string = "0.2.1"
+strfmt = "0.1.6"
